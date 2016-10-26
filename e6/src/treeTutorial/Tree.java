@@ -175,7 +175,7 @@ public class Tree extends JPanel implements TreeSelectionListener {
 		}
 
 		// Create and set up the window.
-		JFrame frame = new JFrame("TreeDemo");
+		JFrame frame = new JFrame("Tree");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		// Add content to the window.
